@@ -31,3 +31,15 @@ The screenshot below shows the shared folder successfully mounted as drive Z: in
 
 ![Shared folder mounted](screenshots/03-sharedfolder-access-z-drive.jpeg)
 
+## 4. VirtualBox Guest Additions Installation
+
+VirtualBox Guest Additions were installed to improve integration between the host system and the Windows 10 virtual machine.
+
+This installation enables improved display drivers, mouse integration, and clipboard sharing between the host and guest systems.
+
+The screenshot below shows the VirtualBox Guest Additions successfully installed inside the Windows virtual machine.
+
+![Guest Additions installed](screenshots/04-guest-additions-installed.jpeg)
+
+
+
