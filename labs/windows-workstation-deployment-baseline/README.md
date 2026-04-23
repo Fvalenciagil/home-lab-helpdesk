@@ -1,9 +1,9 @@
 - creating a virtual machine environment
 - performing a clean Windows installation
 - configuring a local administrator account
-- renaming the work station using a naming convention
+- renaming the workstation using a naming convention
 - verifying drivers in Device Manager
-- validating Windows Updated readiness
+- validating Windows Update readiness
 - confirming  activation status
 - testing network connectivity
 - enabling Remote Desktop
